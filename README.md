@@ -48,7 +48,14 @@ only durations from last 3 years are representative of current world data_)
 ### **We infer that the assumption that cases run for a very long time in court holds true and criminality affects the duration of a case**
 
 ### **Insights from `CriminalCaseRates.ipynb`**
-- 
+- We see that criminal and non-criminal case rates drop to a low at 2011 oddly
+- The non-criminal cases peak at 2016
+- Criminal cases peak at 2018
+- We see that criminal cases are more or less stable during 2010-2012, and during 2013-2018 they steadily increase
+- There is a huge jump in criminal and non-criminal cases from 2013 to 2014
+!()[k.png]
+- Criminal vs non-criminal cases in different states
+!()[l.png]
 
 
 ### **Insights from `JudgeGenderRatioOvertime.ipynb`**
@@ -56,11 +63,12 @@ only durations from last 3 years are representative of current world data_)
 - The hard part generating this insight was calculating how many male and female judges were active during an year, since the input data just gave the years during which a particular judge was active
 - The number of male judges is more than double the number of female judges(over all years)
 !()[g.png]
+!()[h.png]
 - Data collection before 2000 and after 2019 is scarce so we can ignore those years
 - Number of judges in general grows till 2016 and drop after that, expected
-!()[h.png]
+!()[i.png]
 - The ratio stays stable at around 2 to 4 over 2010-2018 
-!()[]
+!()[j.png]
 - A big gender gap exists in judges
 
 
