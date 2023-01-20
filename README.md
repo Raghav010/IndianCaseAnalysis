@@ -74,5 +74,9 @@ only durations from last 3 years are representative of current world data_)
 ![](/j.png)
 - A big gender gap exists in judges
 
-
+### **Dependcies**
+- matplotlib
+- seaborn
+- gc
+- pandas
 
